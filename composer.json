@@ -1,0 +1,14 @@
+{
+  "name": "drupal/commerce_cop",
+  "type": "drupal-module",
+  "description": "Commerce offline payments for Commerce 2.x",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/commerce_cop",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/commerce_cop",
+    "source": "http://cgit.drupalcode.org/commerce_cop"
+  },
+  "require": { }
+}

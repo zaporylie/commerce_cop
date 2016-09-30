@@ -1,0 +1,7 @@
+name: Commerce COP
+type: module
+description: Custom Offline Payments for Commerce 2.x
+core: 8.x
+package: Commerce (Contrib)
+dependencies:
+  - commerce_payment
